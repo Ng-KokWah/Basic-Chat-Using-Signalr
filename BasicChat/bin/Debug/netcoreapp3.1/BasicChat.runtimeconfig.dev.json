@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rekt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rekt\\.nuget\\packages"
+    ]
+  }
+}
